@@ -1,9 +1,9 @@
 {
   "name": "Mosquitto broker51",
-  "version": "5.1",
+  "version": "5.1.",
   "slug": "mosquitto51",
   "description": "An Open Source MQTT broker",
-  "url": "https://github.com/home-assistant/hassio-addons/tree/master/mosquitto",
+  "url": "https://github.com/NetJaro/addons/tree/master/mosquitto",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "system",
   "map": ["ssl", "share"],
